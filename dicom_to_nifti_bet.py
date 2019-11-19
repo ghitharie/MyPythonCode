@@ -5,8 +5,7 @@ import pathlib
 worteldir1 = ('/home/ghitharie/dcm-bestanden')
 worteldir2 = ('/home/ghitharie/dcm-bestanden 
 worteldir3 = 
-worteldir4 = 
-worteldir5 = ('/home/ghitharie/dcm-bestanden')
+worteldir4 =
 dicom_images_t1 = []
 dicom_images_t2 = []
 dicom_images_flair = []
