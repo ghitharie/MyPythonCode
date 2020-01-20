@@ -4,7 +4,6 @@ import xnat
 import os
 import pathlib
 import SimpleITK
-import numpy
 
 def create_network():
     #With this piece of code you can make an empty network and give it a name
